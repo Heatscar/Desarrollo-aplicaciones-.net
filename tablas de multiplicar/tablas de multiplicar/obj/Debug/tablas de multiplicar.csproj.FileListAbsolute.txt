@@ -1,0 +1,29 @@
+c:\users\montoya\documents\visual studio 2012\Projects\tablas de multiplicar\tablas de multiplicar\bin\Debug\tablas de multiplicar.exe.config
+c:\users\montoya\documents\visual studio 2012\Projects\tablas de multiplicar\tablas de multiplicar\bin\Debug\tablas de multiplicar.exe
+c:\users\montoya\documents\visual studio 2012\Projects\tablas de multiplicar\tablas de multiplicar\bin\Debug\tablas de multiplicar.pdb
+c:\users\montoya\documents\visual studio 2012\Projects\tablas de multiplicar\tablas de multiplicar\obj\Debug\tablas de multiplicar.csprojResolveAssemblyReference.cache
+c:\users\montoya\documents\visual studio 2012\Projects\tablas de multiplicar\tablas de multiplicar\obj\Debug\tablas_de_multiplicar.Form1.resources
+c:\users\montoya\documents\visual studio 2012\Projects\tablas de multiplicar\tablas de multiplicar\obj\Debug\tablas_de_multiplicar.Properties.Resources.resources
+c:\users\montoya\documents\visual studio 2012\Projects\tablas de multiplicar\tablas de multiplicar\obj\Debug\tablas de multiplicar.csproj.GenerateResource.Cache
+c:\users\montoya\documents\visual studio 2012\Projects\tablas de multiplicar\tablas de multiplicar\obj\Debug\tablas de multiplicar.exe
+c:\users\montoya\documents\visual studio 2012\Projects\tablas de multiplicar\tablas de multiplicar\obj\Debug\tablas de multiplicar.pdb
+C:\Users\MONTOYA\documents\visual studio 2012\Projects\tablas de multiplicar\tablas de multiplicar\bin\Debug\tablas de multiplicar.exe.manifest
+C:\Users\MONTOYA\documents\visual studio 2012\Projects\tablas de multiplicar\tablas de multiplicar\bin\Debug\tablas de multiplicar.application
+C:\Users\MONTOYA\documents\visual studio 2012\Projects\tablas de multiplicar\tablas de multiplicar\obj\Debug\tablas de multiplicar.TrustInfo.xml
+C:\Users\MONTOYA\documents\visual studio 2012\Projects\tablas de multiplicar\tablas de multiplicar\obj\Debug\tablas de multiplicar.exe.manifest
+C:\Users\MONTOYA\documents\visual studio 2012\Projects\tablas de multiplicar\tablas de multiplicar\obj\Debug\tablas de multiplicar.application
+C:\Users\hecto\Downloads\tablas de multiplicar\tablas de multiplicar\obj\Debug\tablas de multiplicar.csprojAssemblyReference.cache
+C:\Users\hecto\Downloads\tablas de multiplicar\tablas de multiplicar\obj\Debug\tablas_de_multiplicar.Form1.resources
+C:\Users\hecto\Downloads\tablas de multiplicar\tablas de multiplicar\obj\Debug\tablas_de_multiplicar.Properties.Resources.resources
+C:\Users\hecto\Downloads\tablas de multiplicar\tablas de multiplicar\obj\Debug\tablas de multiplicar.csproj.GenerateResource.cache
+C:\Users\hecto\Downloads\tablas de multiplicar\tablas de multiplicar\obj\Debug\tablas de multiplicar.csproj.CoreCompileInputs.cache
+C:\Users\hecto\Downloads\tablas de multiplicar\tablas de multiplicar\obj\Debug\tablas de multiplicar.TrustInfo.xml
+C:\Users\hecto\Downloads\tablas de multiplicar\tablas de multiplicar\obj\Debug\tablas de multiplicar.exe
+C:\Users\hecto\Downloads\tablas de multiplicar\tablas de multiplicar\obj\Debug\tablas de multiplicar.pdb
+C:\Users\hecto\Downloads\tablas de multiplicar\tablas de multiplicar\bin\Debug\tablas de multiplicar.exe.config
+C:\Users\hecto\Downloads\tablas de multiplicar\tablas de multiplicar\bin\Debug\tablas de multiplicar.exe.manifest
+C:\Users\hecto\Downloads\tablas de multiplicar\tablas de multiplicar\bin\Debug\tablas de multiplicar.application
+C:\Users\hecto\Downloads\tablas de multiplicar\tablas de multiplicar\bin\Debug\tablas de multiplicar.exe
+C:\Users\hecto\Downloads\tablas de multiplicar\tablas de multiplicar\bin\Debug\tablas de multiplicar.pdb
+C:\Users\hecto\Downloads\tablas de multiplicar\tablas de multiplicar\obj\Debug\tablas de multiplicar.exe.manifest
+C:\Users\hecto\Downloads\tablas de multiplicar\tablas de multiplicar\obj\Debug\tablas de multiplicar.application
