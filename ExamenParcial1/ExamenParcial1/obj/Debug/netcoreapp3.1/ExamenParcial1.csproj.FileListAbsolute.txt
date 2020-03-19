@@ -1,0 +1,11 @@
+C:\Users\hecto\Desktop\Universidad\.Net\Desarrollo-aplicaciones-.net\ExamenParcial1\ExamenParcial1\obj\Debug\netcoreapp3.1\ExamenParcial1.csprojAssemblyReference.cache
+C:\Users\hecto\Desktop\Universidad\.Net\Desarrollo-aplicaciones-.net\ExamenParcial1\ExamenParcial1\obj\Debug\netcoreapp3.1\ExamenParcial1.AssemblyInfoInputs.cache
+C:\Users\hecto\Desktop\Universidad\.Net\Desarrollo-aplicaciones-.net\ExamenParcial1\ExamenParcial1\obj\Debug\netcoreapp3.1\ExamenParcial1.AssemblyInfo.cs
+C:\Users\hecto\Desktop\Universidad\.Net\Desarrollo-aplicaciones-.net\ExamenParcial1\ExamenParcial1\bin\Debug\netcoreapp3.1\ExamenParcial1.exe
+C:\Users\hecto\Desktop\Universidad\.Net\Desarrollo-aplicaciones-.net\ExamenParcial1\ExamenParcial1\bin\Debug\netcoreapp3.1\ExamenParcial1.deps.json
+C:\Users\hecto\Desktop\Universidad\.Net\Desarrollo-aplicaciones-.net\ExamenParcial1\ExamenParcial1\bin\Debug\netcoreapp3.1\ExamenParcial1.runtimeconfig.json
+C:\Users\hecto\Desktop\Universidad\.Net\Desarrollo-aplicaciones-.net\ExamenParcial1\ExamenParcial1\bin\Debug\netcoreapp3.1\ExamenParcial1.runtimeconfig.dev.json
+C:\Users\hecto\Desktop\Universidad\.Net\Desarrollo-aplicaciones-.net\ExamenParcial1\ExamenParcial1\bin\Debug\netcoreapp3.1\ExamenParcial1.dll
+C:\Users\hecto\Desktop\Universidad\.Net\Desarrollo-aplicaciones-.net\ExamenParcial1\ExamenParcial1\bin\Debug\netcoreapp3.1\ExamenParcial1.pdb
+C:\Users\hecto\Desktop\Universidad\.Net\Desarrollo-aplicaciones-.net\ExamenParcial1\ExamenParcial1\obj\Debug\netcoreapp3.1\ExamenParcial1.dll
+C:\Users\hecto\Desktop\Universidad\.Net\Desarrollo-aplicaciones-.net\ExamenParcial1\ExamenParcial1\obj\Debug\netcoreapp3.1\ExamenParcial1.pdb

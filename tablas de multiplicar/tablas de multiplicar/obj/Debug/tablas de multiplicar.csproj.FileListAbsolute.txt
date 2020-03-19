@@ -27,3 +27,17 @@ C:\Users\hecto\Downloads\tablas de multiplicar\tablas de multiplicar\bin\Debug\t
 C:\Users\hecto\Downloads\tablas de multiplicar\tablas de multiplicar\bin\Debug\tablas de multiplicar.pdb
 C:\Users\hecto\Downloads\tablas de multiplicar\tablas de multiplicar\obj\Debug\tablas de multiplicar.exe.manifest
 C:\Users\hecto\Downloads\tablas de multiplicar\tablas de multiplicar\obj\Debug\tablas de multiplicar.application
+C:\Users\hecto\Desktop\Universidad\.Net\Desarrollo-aplicaciones-.net\tablas de multiplicar\tablas de multiplicar\bin\Debug\tablas de multiplicar.exe.config
+C:\Users\hecto\Desktop\Universidad\.Net\Desarrollo-aplicaciones-.net\tablas de multiplicar\tablas de multiplicar\bin\Debug\tablas de multiplicar.exe.manifest
+C:\Users\hecto\Desktop\Universidad\.Net\Desarrollo-aplicaciones-.net\tablas de multiplicar\tablas de multiplicar\bin\Debug\tablas de multiplicar.application
+C:\Users\hecto\Desktop\Universidad\.Net\Desarrollo-aplicaciones-.net\tablas de multiplicar\tablas de multiplicar\bin\Debug\tablas de multiplicar.exe
+C:\Users\hecto\Desktop\Universidad\.Net\Desarrollo-aplicaciones-.net\tablas de multiplicar\tablas de multiplicar\bin\Debug\tablas de multiplicar.pdb
+C:\Users\hecto\Desktop\Universidad\.Net\Desarrollo-aplicaciones-.net\tablas de multiplicar\tablas de multiplicar\obj\Debug\tablas de multiplicar.csprojAssemblyReference.cache
+C:\Users\hecto\Desktop\Universidad\.Net\Desarrollo-aplicaciones-.net\tablas de multiplicar\tablas de multiplicar\obj\Debug\tablas_de_multiplicar.Form1.resources
+C:\Users\hecto\Desktop\Universidad\.Net\Desarrollo-aplicaciones-.net\tablas de multiplicar\tablas de multiplicar\obj\Debug\tablas_de_multiplicar.Properties.Resources.resources
+C:\Users\hecto\Desktop\Universidad\.Net\Desarrollo-aplicaciones-.net\tablas de multiplicar\tablas de multiplicar\obj\Debug\tablas de multiplicar.csproj.GenerateResource.cache
+C:\Users\hecto\Desktop\Universidad\.Net\Desarrollo-aplicaciones-.net\tablas de multiplicar\tablas de multiplicar\obj\Debug\tablas de multiplicar.TrustInfo.xml
+C:\Users\hecto\Desktop\Universidad\.Net\Desarrollo-aplicaciones-.net\tablas de multiplicar\tablas de multiplicar\obj\Debug\tablas de multiplicar.exe.manifest
+C:\Users\hecto\Desktop\Universidad\.Net\Desarrollo-aplicaciones-.net\tablas de multiplicar\tablas de multiplicar\obj\Debug\tablas de multiplicar.application
+C:\Users\hecto\Desktop\Universidad\.Net\Desarrollo-aplicaciones-.net\tablas de multiplicar\tablas de multiplicar\obj\Debug\tablas de multiplicar.exe
+C:\Users\hecto\Desktop\Universidad\.Net\Desarrollo-aplicaciones-.net\tablas de multiplicar\tablas de multiplicar\obj\Debug\tablas de multiplicar.pdb
