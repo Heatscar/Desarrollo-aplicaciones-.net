@@ -4,3 +4,9 @@ C:\Users\hecto\Desktop\Busqueda\Busqueda\Busqueda\bin\Debug\Busqueda.pdb
 C:\Users\hecto\Desktop\Busqueda\Busqueda\Busqueda\obj\Debug\Busqueda.csprojAssemblyReference.cache
 C:\Users\hecto\Desktop\Busqueda\Busqueda\Busqueda\obj\Debug\Busqueda.exe
 C:\Users\hecto\Desktop\Busqueda\Busqueda\Busqueda\obj\Debug\Busqueda.pdb
+C:\Users\hecto\Desktop\Universidad\.Net\Desarrollo-aplicaciones-.net\Busqueda\Busqueda\bin\Debug\Busqueda.exe.config
+C:\Users\hecto\Desktop\Universidad\.Net\Desarrollo-aplicaciones-.net\Busqueda\Busqueda\bin\Debug\Busqueda.exe
+C:\Users\hecto\Desktop\Universidad\.Net\Desarrollo-aplicaciones-.net\Busqueda\Busqueda\bin\Debug\Busqueda.pdb
+C:\Users\hecto\Desktop\Universidad\.Net\Desarrollo-aplicaciones-.net\Busqueda\Busqueda\obj\Debug\Busqueda.csprojAssemblyReference.cache
+C:\Users\hecto\Desktop\Universidad\.Net\Desarrollo-aplicaciones-.net\Busqueda\Busqueda\obj\Debug\Busqueda.exe
+C:\Users\hecto\Desktop\Universidad\.Net\Desarrollo-aplicaciones-.net\Busqueda\Busqueda\obj\Debug\Busqueda.pdb

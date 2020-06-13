@@ -1,0 +1,57 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="master.master.cs" Inherits="WebApplication1.master" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>Práctica de Master page</title>
+    <link href="src/css/index.css" rel="stylesheet" />
+    <link href="src/css/grid.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+
+    <header class="header">
+            <nav>
+                <ul class="list">
+                    <li><a href="#">Login/register</a></li>
+                    <li> <a href="#">Why us?</a> </li>
+                    <li> <a href="#">How it works?</a> </li>
+                    <li> <a href="#">Our locations</a> </li>
+                    <li> <a href="#">Sign up</a> </li>
+                </ul>
+            </nav>
+            <div class="title">
+                <h1>Megadeth Wiki</h1>
+                <img src="./src/img/logo.png" alt="Megadeth">
+                <h2>Peace Sells... but Who's Buying?</h2>
+            </div>
+            <div class="arrow">
+                <img src="./src/img/arrow.png" alt="arrow" height="25px">
+            </div>
+        </header>
+
+    <form id="form1" runat="server">
+        <div>
+            <p>Hola</p>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+    <p>
+            <a href="#">CONTACTS</a>
+ 
+            <a href="#">TERMS OF SERVICE</a>
+                 
+            <a href="#">PRIVACY POLICY</a>
+                 
+            <a href="#">CUSTOMER SUPPORT</a>
+ 
+            <a href="#">MEGADETH BEER</a>
+        </p>
+        <p>
+            © 2018 Megadeth. All Rights Reserved. Built on Fullscreen Direct
+        </p>
+</body>
+</html>
